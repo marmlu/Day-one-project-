@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//calculating area
 using namspace std;
 int main(){
 	int pi=3.14;
